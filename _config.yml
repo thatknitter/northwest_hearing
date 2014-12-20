@@ -1,0 +1,10 @@
+# Site settings
+title: Northwest Hearing
+email: jburke1051@hotmail.com
+description: > 
+ Official website for John Burke at Northwest Hearing.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://northwesthearing.com" 
+
+# Build settings
+markdown: kramdown
