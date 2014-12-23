@@ -8,4 +8,3 @@ url: "http://northwesthearing.com"
 # Build settings
 markdown: kramdown
 highlighter: true
-exclude: [css]

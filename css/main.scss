@@ -57,6 +57,19 @@ $on-laptop:        800px;
     }
 }
 
+.trigger {
+  background-color: $background-color;
+}
+
+.name {
+  ul{
+    li{
+      list-style-type: none;
+      font-family: $logo-font-family;
+      font-size: $logo-font-size;
+    }
+  }
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
