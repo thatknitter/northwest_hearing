@@ -6,5 +6,8 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://northwesthearing.com" 
 
+google+: Northwest Hearing
+facebook: Northwest Hearing
+
 # Build settings
 markdown: kramdown
