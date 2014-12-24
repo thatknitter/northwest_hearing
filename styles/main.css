@@ -8,9 +8,27 @@ nav ul li{
   font-family: helvetica, Arial, sans-serif;
   color: #FFFFFF;
   font-size: 18pt;
-  
+  padding: 1em;
 }
 
 nav ul a {
   text-decoration: none;
+}
+
+.header {
+  background-color: #6b8596;
+  width: 100%;
+  margin-left: -.4%;
+}
+
+.header h2 {
+  font-family: helvetica, Arial, sans-serif;
+  color: #f5f5f5;
+  margin-bottom: -3%;
+  padding-left: 2%;
+  padding-top: 2%;
+}
+
+.header h1 {
+  
 }
