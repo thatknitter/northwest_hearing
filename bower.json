@@ -1,0 +1,11 @@
+{
+  "name": "northwest_hearing",
+  "version": "0.0.0",
+  "homepage": "https://github.com/thatknitter/northwest_hearing",
+  "authors": [
+    "thatknitter <kblewis.flt@gmail.com>"
+  ],
+  "description": "Official Website for Northwest Hearing",
+  "main": "index.html",
+  "license": "MIT"
+}
