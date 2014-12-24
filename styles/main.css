@@ -1,0 +1,16 @@
+body {
+  background-color: #333b43;
+}
+
+nav ul li{
+  list-style-type: none;
+  display: inline;
+  font-family: helvetica, Arial, sans-serif;
+  color: #FFFFFF;
+  font-size: 18pt;
+  
+}
+
+nav ul a {
+  text-decoration: none;
+}
