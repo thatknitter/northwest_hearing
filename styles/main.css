@@ -1,5 +1,10 @@
 body {
-  background-color: #333b43;
+  background-color: #1f2a30;
+}
+
+nav {
+  background-color: #434343;
+  width: 100%;
 }
 
 nav ul li{
@@ -18,7 +23,6 @@ nav ul a {
 .header {
   background-color: #6b8596;
   width: 100%;
-  margin-left: -.4%;
 }
 
 .header h2 {
